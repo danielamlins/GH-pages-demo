@@ -1,11 +1,11 @@
 {
-  "name": "GH-pages-demo",
+  "name": "GHpagesdemo",
   "homepage": "https://danielamlins.github.io/GH-pages-demo/",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
