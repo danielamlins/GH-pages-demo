@@ -1,9 +1,11 @@
 {
-  "name": "uib-gh-demo",
+  "name": "GH-pages-deom",
+  "homepage": "https://danielamlins.github.io/GH-pages-demo/.",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "deploy": "gh-pages -d src"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
